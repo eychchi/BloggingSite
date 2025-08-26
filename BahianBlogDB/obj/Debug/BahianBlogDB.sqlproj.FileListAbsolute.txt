@@ -1,0 +1,10 @@
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\bin\Debug\BahianBlogDB.dacpac
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\bin\Debug\BahianBlogDB.dll
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\bin\Debug\BahianBlogDB.pdb
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\BahianBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\BahianBlogDB.dll
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\BahianBlogDB.pdb
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\Model.xml
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\refactor.xml
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\postdeploy.sql
+C:\Users\Eric\source\repos\BahianLE2\BahianBlogDB\obj\Debug\predeploy.sql
